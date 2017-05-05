@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A47C5826667F76C9EC350D1C12B630C71C661C4E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A47C5826667F76C9EC350D1C12B630C71C661C4E" : 9223372036854775807,
+    "7FFE592FB1F484C32773B2291AE53D1E64B768B5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "56F4FE52-B095-4D3A-B8FA-5BB565EEECA1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A47C5826667F76C9EC350D1C12B630C71C661C4E" : "Team-55\/",
+    "7FFE592FB1F484C32773B2291AE53D1E64B768B5" : "Cosmos\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Testing",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Testing.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/marketplacer\/Cosmos.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7FFE592FB1F484C32773B2291AE53D1E64B768B5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.iu.edu\/INFO-Capstone-2017\/Team-55.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A47C5826667F76C9EC350D1C12B630C71C661C4E"
+    }
+  ]
+}
